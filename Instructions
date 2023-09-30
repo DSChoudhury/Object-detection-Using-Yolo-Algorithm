@@ -3,4 +3,4 @@ Note: penguine.zip is prepared with some images and its lebles for train and tes
 Then open the colab and Upload It.(No required to Extract externally)
 Chage the Runtime of colab to
 replace the cutom_data.yaml file with the path /content/yolov5/data/custom_data.yaml in the colab
-Note: custom_data.yaml is prepared for the recognition of Data set to train the Model
+Note: custom_data.yaml is prepared for the recognition of class to train the Model, Change the custom.data.yaml's class name according to your project. 
