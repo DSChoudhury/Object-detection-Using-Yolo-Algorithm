@@ -1,0 +1,1 @@
+!unzip -q ../train_data.zip -d ../ #to unzip the uploaded train_data.zip file
