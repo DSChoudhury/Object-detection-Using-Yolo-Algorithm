@@ -1,7 +1,7 @@
 First Download the provided Zip file (penguine.zip/pen.zip).
 Note: pen.zip is prepared with some images and its lebles for train and test the Model.
-Then open google colab.
+Then open google colab or Jupyternotebook(caution: notebook can crash or delyed for infinite time)
 Extract downloaded zip file and upload tain.zip into the colab.
-Change the Runtime of colab to T4 GPU(necessary).
+Change the Runtime of colab to T4 GPU(necessary) and paste all the codes from .py files into the colab
 replace the custom_data.yaml file with the path /content/yolov5/data/coco.yaml in the colab
 Note: custom_data.yaml is prepared for the recognition of class to train the Model, Change the custom.data.yaml's class name according to your project. 
